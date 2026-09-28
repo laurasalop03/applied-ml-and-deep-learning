@@ -1,5 +1,7 @@
 # Applied Machine Learning & Deep Learning
 
+_Developed for the Machine Learning course (Aprendizaje Automático, 2025-26), Computer Science and Mathematics double degree, University of Granada._
+
 A portfolio of machine learning and deep learning models focusing on supervised estimation, unsupervised segmentation, and generative neural networks. 
 
 ### Tech Stack
